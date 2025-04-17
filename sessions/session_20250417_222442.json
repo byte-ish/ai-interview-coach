@@ -1,0 +1,7 @@
+{
+    "resume_text": "John Doe SDET Engineer with 5 years of experience in Java, Selenium, and Rest Assured. Skilled in test automaBon frameworks, CI/CD pipelines, and agile teams.",
+    "role": "SDET Engineer",
+    "questions": "1. Can you explain the difference between black box testing and white box testing, and provide examples of when each testing method would be most beneficial in a software testing process?\n2. How would you approach designing and implementing an automated testing framework for a web-based application? What tools and technologies would you recommend using, and why?\n3. In your experience, what are some common challenges you have encountered when dealing with test automation in an Agile development environment, and how have you overcome these obstacles to ensure the successful delivery of quality software products?",
+    "follow_up": "Can you walk us through a specific scenario where you had to troubleshoot a complex technical issue and explain the steps you took to identify and resolve the problem?",
+    "timestamp": "2025-04-17T22:24:42.760643"
+}

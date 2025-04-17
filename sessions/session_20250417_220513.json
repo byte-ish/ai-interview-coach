@@ -1,0 +1,7 @@
+{
+    "resume_text": "John Doe\nSDET Engineer with 5 years of experience in Java, Selenium, and Rest Assured.\nSkilled in test automaBon frameworks, CI/CD pipelines, and agile teams.",
+    "role": "SDET Engineer",
+    "questions": "1. Can you explain the difference between unit testing and integration testing? How do you determine which type of testing to use in a specific scenario?\n2. In your experience, how have you utilized automation tools to improve the efficiency and effectiveness of testing processes in a software development project?\n3. How do you approach identifying and prioritizing test cases for a given feature or functionality in a software application? Can you walk us through your test planning and execution process as an SDET Engineer?",
+    "follow_up": "Can you give an example of a time when you had to troubleshoot a particularly complex bug in a software application? Walk me through the steps you took to identify and resolve the issue.",
+    "timestamp": "2025-04-17T22:05:13.350192"
+}
